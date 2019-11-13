@@ -21,6 +21,7 @@
   "devDependencies": {
     "@types/chai": "^4.1.0",
     "@types/mocha": "^5.2.4",
+    "@types/pdfjs-dist": "^2.1.2",
     "@vue/cli-plugin-babel": "^4.0.0",
     "@vue/cli-plugin-e2e-cypress": "^4.0.0",
     "@vue/cli-plugin-eslint": "^4.0.0",
@@ -39,6 +40,7 @@
     "eslint-plugin-vue": "^5.0.0",
     "lint-staged": "^9.4.2",
     "node-sass": "^4.12.0",
+    "pdfjs-dist": "^2.2.228",
     "prettier": "^1.18.2",
     "sass-loader": "^8.0.0",
     "typescript": "~3.5.3",
